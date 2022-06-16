@@ -10,3 +10,24 @@
 .background2{
     background: #fff !important;
 }
+@media (max-width:572px) {
+    .back-mobile{
+        background-image: url('../images/background.jpg');
+        height: 450px;
+        background-repeat: no-repeat;
+        background-size: cover; 
+        background-position: 80%; 
+    }
+    .mobile-div-in{
+        display: none;
+    }
+
+}
+
+@media (min-width:572px) {
+    .mobile-div{
+        display: none;
+    }
+}
+
+
