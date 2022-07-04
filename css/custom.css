@@ -12,11 +12,11 @@
 }
 @media (max-width:572px) {
     .back-mobile{
-        background-image: url('../images/background.jpg');
+        background-image: url('../images/background-2.jpg');
         height: 450px;
         background-repeat: no-repeat;
         background-size: cover; 
-        background-position: 80%; 
+        background-position: 88%; 
     }
     .mobile-div-in{
         display: none;
